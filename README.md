@@ -1,11 +1,6 @@
 # Python-Exercise-New-Engineering-Industry
 新工科产业学院Python程序设计课程及实验教程
 
-# Solution
-解决Turtle库下载失败问题：https://zhuanlan.zhihu.com/p/114712558
-
-如何在Anaconda下载库：https://blog.csdn.net/kaever/article/details/106295926
-
 # Before the Tutorial
 
 零基础，应当如何开始学习 Python ？
@@ -38,3 +33,8 @@
 《笨办法学 Python （Learn Python The Hard Way）》
 
 《像计算机科学家一样思考Python》
+
+# Question Solution (持续更新)
+解决Turtle库下载失败问题：https://zhuanlan.zhihu.com/p/114712558
+
+如何在Anaconda下载库：https://blog.csdn.net/kaever/article/details/106295926
