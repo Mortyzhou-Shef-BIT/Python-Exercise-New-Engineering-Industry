@@ -18,14 +18,23 @@
 
 学会检索： 大部分问题都能在博客中找到解决方案，遇到问题先百度。
 
-# 推荐书目：
 
-《笨办法学 Python （Learn Python The Hard Way）》
+# 推荐的课程：
 
-《像计算机科学家一样思考Python》
+[“Python语言程序设计 北京理工大学”](<https://www.icourse163.org/course/BIT-268001#/info>)
 
-比较推荐的Github课程：
+[“Python语言程序设计 北京理工大学_B站录制版本”](<https://www.bilibili.com/video/BV1gJ411Q7My?from=search&seid=16962515799502322601>)
+
+[“Python123平台”](<https://python123.io/>)
+
+# 有用的资料（额外）
 
 [“Python-Core-50-Courses”](<https://github.com/jackfrued/Python-Core-50-Courses>)
 
 [“Python - 100天从新手到大师”](<https://github.com/jackfrued/Python-100-Days>)
+
+# 推荐书目（额外）：
+
+《笨办法学 Python （Learn Python The Hard Way）》
+
+《像计算机科学家一样思考Python》
